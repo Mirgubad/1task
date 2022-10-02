@@ -1,0 +1,18 @@
+.jumbotron{
+    background-color: #9575CD;
+    border-radius: 5px;
+}
+footer{
+    background: #D1C4E9;
+}
+.row-header{
+    color: floralwhite;
+}
+.row-content{
+    border-bottom: 1px ridge;
+    border-top: 1px ridge;
+  
+}
+small{
+    font-weight: 400;
+}
